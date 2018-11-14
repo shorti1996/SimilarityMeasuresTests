@@ -1,0 +1,107 @@
+Generic currency sign
+Afghan afghani
+Malagasy ariary
+Thai baht
+Panamanian balboa
+Ethiopian birr
+Venezuelan bolívar Bolivian boliviano
+Venezuelan bolívar variant
+Ghana cedi
+cent, centavo, &c.
+cent &c. variant
+Bhutanese chhertum
+Costa Rican colón, symbol was also used for the Salvadoran colón.
+Nicaraguan córdoba
+Gambian dalasi
+Macedonian denar
+Algerian dinar
+Bahraini dinar
+Iraqi dinar
+Jordanian dinar
+Kuwaiti dinar
+Libyan dinar
+Serbian dinar
+Tunisian dinar
+Moroccan dirham
+United Arab Emirates dirham
+São Tomé and Príncipe dobra
+Australian (A$), Bahamian (B$), Barbadian (Bds$), Belizean (BZ$), Bermudian (BD$), Brunei (B$), Canadian (Can$), Cayman Islands (CI$), East Caribbean (EC$), Fiji (FJ$), Guyanese (G$),[5] Hong Kong (HK$/元/圓), Jamaican (J$), Kiribati, Liberian (L$), Namibian (N$), New Zealand (NZ$), Singaporean (S$), Solomon Islands (SI$), Surinamese (SRD), New Taiwan (NT$/元/圓), Trinidad and Tobago (TT$), Tuvaluan, United States (US$), and Zimbabwean (Z$) dollarsArgentine, Chilean (CLP$), Colombian (COL$), Cuban ($MN), Cuban convertible (CUC$), Dominican (RD$), Mexican (Mex$), and Uruguayan ($U) pesos
+Vietnamese đồng
+Armenian dram
+Cape Verdean escudo
+Euro
+Aruban florin (Afl.)[6]Netherlands Antillean guilder (NAƒ)
+Hungarian forint
+Burundian franc
+Central African CFA franc
+West African CFA franc
+Comorian (CF), Congolese (CF, FC), Djiboutian (Fdj/DF), Guinean (FG/GFr) and Swiss (SFr) francs
+Rwandan franc
+Haitian gourde
+Polish grosz
+Paraguayan guaraní
+Czech haléř
+Ukrainian hryvnia
+Lao kip
+Czech koruna
+Danish krone (DKK)  Norwegian krone (NOK)Swedish krona (SEK)  Icelandic króna (ISK) Faroese króna
+Croatian kuna
+Angolan kwanza
+Myanma kyatPapua New Guinean kinaMalawian kwachaZambian kwacha
+Georgian lari
+Albanian lekHonduran lempira
+Sierra Leonean leone
+Bulgarian lev
+Swazi lilangeni
+Croatian lipa
+Turkish lira
+Lesotho loti
+Azerbaijani manat
+Bosnia and Herzegovina convertible mark
+Mozambican metical
+Mill, mil, &.c
+Eritrean nakfa
+Nigerian naira
+Bhutanese ngultrum
+Mauritanian ouguiya
+Tongan paʻanga
+Macanese pataca
+Philippine peso
+Egyptian piastre
+British, Falkland Islands (FK£), Gibraltar, Manx (M£), Egypt (E£), St. Helena
+Lebanese pound
+Syrian pound
+Botswana pula
+Guatemalan quetzal
+Albanian qindarkë
+South African rand
+Brazilian real
+Iranian rial
+Omani rial
+Qatari riyal
+Saudi riyal
+Yemeni rial
+Cambodian riel
+Malaysian ringgit
+British &c. pennies
+Russian ruble
+Maldivian rufiyaa
+Indian rupee
+Mauritian, Nepalese (N₨/रू.), Pakistani and Sri Lankan (SLRs/රු) rupees
+Seychellois rupee
+Indonesian rupiah
+Israeli new shekel
+Tanzanian shilling
+Kenyan shilling
+Somali shilling
+Ugandan shilling
+Peruvian sol
+Special drawing rights
+Bangladeshi Taka
+Samoan tālā
+Kazakhstani tenge
+Mongolian tögrög
+Vanuatu vatu
+North Korean won, South Korean won
+Japanese yen (円/圓), Chinese Renminbi yuan (元/圆)
+Polish złoty
