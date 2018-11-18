@@ -33,7 +33,7 @@ Esc
 ƒ
 Ft
 FBu
-FCFA
+F
 CFA
 Fr
 FRw

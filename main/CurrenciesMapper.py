@@ -1,7 +1,6 @@
-from pyxdameraulevenshtein import damerau_levenshtein_distance_ndarray, normalized_damerau_levenshtein_distance_ndarray
 import numpy as np
-import nwalign
 
+import main.smithWaterman.smith_waterman2 as sw
 
 currs = open("currencies_ISO4217.txt")
 curr_names = open("currencies_ISO4217_names.txt")
@@ -18,12 +17,16 @@ for line in currs:
 
 signs_dict = {}
 for line in curr_signs_names:
-    signs_dict[line] = curr_signs.readline()
+    signs_dict[line] = curr_signs.readline().strip()
 
 for key, value in curr_dict.items():
-    dists = normalized_damerau_levenshtein_distance_ndarray(value, curr_signs_names_arr)
-    best = np.argmin(dists)
-    name = curr_signs_names[best]
+    dists = []
+    for curr_name in curr_signs_names:
+        i, j, score = sw.find_max(sw.scoring_matrix(value, curr_name))
+        dists.append((score, curr_name))
+
+    name = max(dists)[1]
+    curr_dict[key] = {"name1": value, "name2": name, "sign": signs_dict[name]}
     if value != name:
         x = 0
 

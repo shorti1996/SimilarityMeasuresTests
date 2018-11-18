@@ -15,14 +15,19 @@ def scoring_matrix(a, b, match_score=3, gap_cost=2):
 
 def traceback(H, b, b_='', old_i=0):
     # flip H to get index of **last** occurrence of H.max() with np.argmax()
-    H_flip = np.flip(np.flip(H, 0), 1)
-    i_, j_ = np.unravel_index(H_flip.argmax(), H_flip.shape)
-    i, j = np.subtract(H.shape, (i_ + 1, j_ + 1))  # (i, j) are **last** indexes of H.max()
-    last_max = H[i, j]
+    i, j, _ = find_max(H)
     if H[i, j] == 0:
         return b_, j
     b_ = b[j - 1] + '-' + b_ if old_i - i > 1 else b[j - 1] + b_
     return traceback(H[0:i, 0:j], b, b_, i)
+
+
+def find_max(H):
+    H_flip = np.flip(np.flip(H, 0), 1)
+    i_, j_ = np.unravel_index(H_flip.argmax(), H_flip.shape)
+    i, j = np.subtract(H.shape, (i_ + 1, j_ + 1))  # (i, j) are **last** indexes of H.max()
+    last_max = H[i, j]
+    return i, j, last_max
 
 
 def smith_waterman(a, b, match_score=3, gap_cost=2):
@@ -51,4 +56,5 @@ a = 'KARTAKWOTASKLEPKAUFLANDSPZOOWROCLAW'
 b = 'ZOOKAUFLANDSKLEP'
 H = scoring_matrix(a, b, match_score=1, gap_cost=2)
 print(H)
-print(traceback(H, b))      # ('gtt-ac', 1)
+# print(traceback(H, b))      # ('gtt-ac', 1)
+print(find_max(H))      # ('gtt-ac', 1)

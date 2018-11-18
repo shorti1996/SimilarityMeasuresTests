@@ -1,0 +1,2164 @@
+{
+   "Abkhazia":{
+      "Abkhazian apsar":{
+         "symbol":"(none)",
+         "ISO":"(none)",
+         "fractional":"(none)",
+         "base":"(none)"
+      },
+      "Russian ruble":{
+         "symbol":"\u20bd",
+         "ISO":"RUB",
+         "fractional":"Kopek",
+         "base":"100"
+      }
+   },
+   "Afghanistan":{
+      "Afghan afghani":{
+         "symbol":"\u060b",
+         "ISO":"AFN",
+         "fractional":"Pul",
+         "base":"100"
+      }
+   },
+   "Akrotiri and Dhekelia":{
+      "Euro":{
+         "symbol":"\u20ac",
+         "ISO":"EUR",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Albania":{
+      "Albanian lek":{
+         "symbol":"L",
+         "ISO":"ALL",
+         "fractional":"Qindark\u00eb",
+         "base":"100"
+      }
+   },
+   "Alderney":{
+      "Alderney pound":{
+         "symbol":"\u00a3",
+         "ISO":"(none)",
+         "fractional":"Penny",
+         "base":"100"
+      },
+      "British pound":{
+         "symbol":"\u00a3",
+         "ISO":"GBP",
+         "fractional":"Penny",
+         "base":"100"
+      },
+      "Guernsey pound":{
+         "symbol":"\u00a3",
+         "ISO":"GGP",
+         "fractional":"Penny",
+         "base":"100"
+      }
+   },
+   "Algeria":{
+      "Algerian dinar":{
+         "symbol":"\u062f.\u062c",
+         "ISO":"DZD",
+         "fractional":"Santeem",
+         "base":"100"
+      }
+   },
+   "Andorra":{
+      "Euro":{
+         "symbol":"\u20ac",
+         "ISO":"EUR",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Angola":{
+      "Angolan kwanza":{
+         "symbol":"Kz",
+         "ISO":"AOA",
+         "fractional":"C\u00eantimo",
+         "base":"100"
+      }
+   },
+   "Anguilla":{
+      "Eastern Caribbean dollar":{
+         "symbol":"$",
+         "ISO":"XCD",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Antigua and Barbuda":{
+      "Eastern Caribbean dollar":{
+         "symbol":"$",
+         "ISO":"XCD",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Argentina":{
+      "Argentine peso":{
+         "symbol":"$",
+         "ISO":"ARS",
+         "fractional":"Centavo",
+         "base":"100"
+      }
+   },
+   "Armenia":{
+      "Armenian dram":{
+         "symbol":"\u058f",
+         "ISO":"AMD",
+         "fractional":"Luma",
+         "base":"100"
+      }
+   },
+   "Republic of Artsakh":{
+      "Armenian dram":{
+         "symbol":"\u058f",
+         "ISO":"AMD",
+         "fractional":"Luma",
+         "base":"100"
+      },
+      "Artsakh dram":{
+         "symbol":"\u0564\u0580.",
+         "ISO":"(none)",
+         "fractional":"Luma",
+         "base":"100"
+      }
+   },
+   "Aruba":{
+      "Aruban florin":{
+         "symbol":"\u0192",
+         "ISO":"AWG",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Ascension Island":{
+      "Ascension pound":{
+         "symbol":"\u00a3",
+         "ISO":"(none)",
+         "fractional":"Penny",
+         "base":"100"
+      },
+      "Saint Helena pound":{
+         "symbol":"\u00a3",
+         "ISO":"SHP",
+         "fractional":"Penny",
+         "base":"100"
+      }
+   },
+   "Australia":{
+      "Australian dollar":{
+         "symbol":"$",
+         "ISO":"AUD",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Austria":{
+      "Euro":{
+         "symbol":"\u20ac",
+         "ISO":"EUR",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Azerbaijan":{
+      "Azerbaijani manat":{
+         "symbol":"\u20bc",
+         "ISO":"AZN",
+         "fractional":"Q\u0259pik",
+         "base":"100"
+      }
+   },
+   "Bahamas, The":{
+      "Bahamian dollar":{
+         "symbol":"$",
+         "ISO":"BSD",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Bahrain":{
+      "Bahraini dinar":{
+         "symbol":".\u062f.\u0628",
+         "ISO":"BHD",
+         "fractional":"Fils",
+         "base":"1000"
+      }
+   },
+   "Bangladesh":{
+      "Bangladeshi taka":{
+         "symbol":"\u09f3",
+         "ISO":"BDT",
+         "fractional":"Poisha",
+         "base":"100"
+      }
+   },
+   "Barbados":{
+      "Barbadian dollar":{
+         "symbol":"$",
+         "ISO":"BBD",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Belarus":{
+      "Belarusian ruble":{
+         "symbol":"Br",
+         "ISO":"BYN",
+         "fractional":"Kapyeyka",
+         "base":"100"
+      }
+   },
+   "Belgium":{
+      "Euro":{
+         "symbol":"\u20ac",
+         "ISO":"EUR",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Belize":{
+      "Belize dollar":{
+         "symbol":"$",
+         "ISO":"BZD",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Benin":{
+      "West African CFA franc":{
+         "symbol":"Fr",
+         "ISO":"XOF",
+         "fractional":"Centime",
+         "base":"100"
+      }
+   },
+   "Bermuda":{
+      "Bermudian dollar":{
+         "symbol":"$",
+         "ISO":"BMD",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Bhutan":{
+      "Bhutanese ngultrum":{
+         "symbol":"Nu.",
+         "ISO":"BTN",
+         "fractional":"Chetrum",
+         "base":"100"
+      },
+      "Indian rupee":{
+         "symbol":"\u20b9",
+         "ISO":"INR",
+         "fractional":"Paisa",
+         "base":"100"
+      }
+   },
+   "Bolivia":{
+      "Bolivian boliviano":{
+         "symbol":"Bs.",
+         "ISO":"BOB",
+         "fractional":"Centavo",
+         "base":"100"
+      }
+   },
+   "Bonaire":{
+      "United States dollar":{
+         "symbol":"$",
+         "ISO":"USD",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Bosnia and Herzegovina":{
+      "Bosnia and Herzegovina convertible mark":{
+         "symbol":"KM or \u041a\u041c",
+         "ISO":"BAM",
+         "fractional":"Fening",
+         "base":"100"
+      }
+   },
+   "Botswana":{
+      "Botswana pula":{
+         "symbol":"P",
+         "ISO":"BWP",
+         "fractional":"Thebe",
+         "base":"100"
+      }
+   },
+   "Brazil":{
+      "Brazilian real":{
+         "symbol":"R$",
+         "ISO":"BRL",
+         "fractional":"Centavo",
+         "base":"100"
+      }
+   },
+   "British Indian Ocean Territory":{
+      "United States dollar":{
+         "symbol":"$",
+         "ISO":"USD",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "British Virgin Islands":{
+      "British Virgin Islands dollar":{
+         "symbol":"$",
+         "ISO":"(none)",
+         "fractional":"Cent",
+         "base":"100"
+      },
+      "United States dollar":{
+         "symbol":"$",
+         "ISO":"USD",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Brunei":{
+      "Brunei dollar":{
+         "symbol":"$",
+         "ISO":"BND",
+         "fractional":"Sen",
+         "base":"100"
+      },
+      "Singapore dollar":{
+         "symbol":"$",
+         "ISO":"SGD",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Bulgaria":{
+      "Bulgarian lev":{
+         "symbol":"\u043b\u0432",
+         "ISO":"BGN",
+         "fractional":"Stotinka",
+         "base":"100"
+      }
+   },
+   "Burkina Faso":{
+      "West African CFA franc":{
+         "symbol":"Fr",
+         "ISO":"XOF",
+         "fractional":"Centime",
+         "base":"100"
+      }
+   },
+   "Burundi":{
+      "Burundian franc":{
+         "symbol":"Fr",
+         "ISO":"BIF",
+         "fractional":"Centime",
+         "base":"100"
+      }
+   },
+   "Cambodia":{
+      "Cambodian riel":{
+         "symbol":"\u17db",
+         "ISO":"KHR",
+         "fractional":"Sen",
+         "base":"100"
+      },
+      "United States dollar":{
+         "symbol":"$",
+         "ISO":"USD",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Cameroon":{
+      "Central African CFA franc":{
+         "symbol":"Fr",
+         "ISO":"XAF",
+         "fractional":"Centime",
+         "base":"100"
+      }
+   },
+   "Canada":{
+      "Canadian dollar":{
+         "symbol":"$",
+         "ISO":"CAD",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Cape Verde":{
+      "Cape Verdean escudo":{
+         "symbol":"Esc or $",
+         "ISO":"CVE",
+         "fractional":"Centavo",
+         "base":"100"
+      }
+   },
+   "Cayman Islands":{
+      "Cayman Islands dollar":{
+         "symbol":"$",
+         "ISO":"KYD",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Central African Republic":{
+      "Central African CFA franc":{
+         "symbol":"Fr",
+         "ISO":"XAF",
+         "fractional":"Centime",
+         "base":"100"
+      }
+   },
+   "Chad":{
+      "Central African CFA franc":{
+         "symbol":"Fr",
+         "ISO":"XAF",
+         "fractional":"Centime",
+         "base":"100"
+      }
+   },
+   "Chile":{
+      "Chilean peso":{
+         "symbol":"$",
+         "ISO":"CLP",
+         "fractional":"Centavo",
+         "base":"100"
+      }
+   },
+   "China":{
+      "Chinese yuan":{
+         "symbol":"\u00a5 or \u5143",
+         "ISO":"CNY",
+         "fractional":"Fen",
+         "base":"100"
+      }
+   },
+   "Cocos (Keeling) Islands":{
+      "Australian dollar":{
+         "symbol":"$",
+         "ISO":"AUD",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Colombia":{
+      "Colombian peso":{
+         "symbol":"$",
+         "ISO":"COP",
+         "fractional":"Centavo",
+         "base":"100"
+      }
+   },
+   "Comoros":{
+      "Comorian franc":{
+         "symbol":"Fr",
+         "ISO":"KMF",
+         "fractional":"Centime",
+         "base":"100"
+      }
+   },
+   "Congo, Democratic Republic of the":{
+      "Congolese franc":{
+         "symbol":"Fr",
+         "ISO":"CDF",
+         "fractional":"Centime",
+         "base":"100"
+      }
+   },
+   "Congo, Republic of the":{
+      "Central African CFA franc":{
+         "symbol":"Fr",
+         "ISO":"XAF",
+         "fractional":"Centime",
+         "base":"100"
+      }
+   },
+   "Cook Islands":{
+      "New Zealand dollar":{
+         "symbol":"$",
+         "ISO":"NZD",
+         "fractional":"Cent",
+         "base":"100"
+      },
+      "Cook Islands dollar":{
+         "symbol":"$",
+         "ISO":"(none)",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Costa Rica":{
+      "Costa Rican col\u00f3n":{
+         "symbol":"\u20a1",
+         "ISO":"CRC",
+         "fractional":"C\u00e9ntimo",
+         "base":"100"
+      }
+   },
+   "C\u00f4te d'Ivoire":{
+      "West African CFA franc":{
+         "symbol":"Fr",
+         "ISO":"XOF",
+         "fractional":"Centime",
+         "base":"100"
+      }
+   },
+   "Croatia":{
+      "Croatian kuna":{
+         "symbol":"kn",
+         "ISO":"HRK",
+         "fractional":"Lipa",
+         "base":"100"
+      }
+   },
+   "Cuba":{
+      "Cuban convertible peso":{
+         "symbol":"$",
+         "ISO":"CUC",
+         "fractional":"Centavo",
+         "base":"100"
+      },
+      "Cuban peso":{
+         "symbol":"$",
+         "ISO":"CUP",
+         "fractional":"Centavo",
+         "base":"100"
+      }
+   },
+   "Cura\u00e7ao":{
+      "Netherlands Antillean guilder":{
+         "symbol":"\u0192",
+         "ISO":"ANG",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Cyprus":{
+      "Euro":{
+         "symbol":"\u20ac",
+         "ISO":"EUR",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Czech Republic":{
+      "Czech koruna":{
+         "symbol":"K\u010d",
+         "ISO":"CZK",
+         "fractional":"Hal\u00e9\u0159",
+         "base":"100"
+      }
+   },
+   "Denmark":{
+      "Danish krone":{
+         "symbol":"kr",
+         "ISO":"DKK",
+         "fractional":"\u00d8re",
+         "base":"100"
+      }
+   },
+   "Djibouti":{
+      "Djiboutian franc":{
+         "symbol":"Fr",
+         "ISO":"DJF",
+         "fractional":"Centime",
+         "base":"100"
+      }
+   },
+   "Dominica":{
+      "Eastern Caribbean dollar":{
+         "symbol":"$",
+         "ISO":"XCD",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Dominican Republic":{
+      "Dominican peso":{
+         "symbol":"$",
+         "ISO":"DOP",
+         "fractional":"Centavo",
+         "base":"100"
+      }
+   },
+   "East Timor":{
+      "United States dollar":{
+         "symbol":"$",
+         "ISO":"USD",
+         "fractional":"Cent",
+         "base":"100"
+      },
+      "(none)":{
+         "symbol":"(none)",
+         "ISO":"(none)",
+         "fractional":"Centavo",
+         "base":"(none)"
+      }
+   },
+   "Ecuador":{
+      "United States dollar":{
+         "symbol":"$",
+         "ISO":"USD",
+         "fractional":"Cent",
+         "base":"100"
+      },
+      "(none)":{
+         "symbol":"(none)",
+         "ISO":"(none)",
+         "fractional":"Centavo",
+         "base":"(none)"
+      }
+   },
+   "Egypt":{
+      "Egyptian pound":{
+         "symbol":"\u00a3 or \u062c.\u0645",
+         "ISO":"EGP",
+         "fractional":"Piastre",
+         "base":"100"
+      }
+   },
+   "El Salvador":{
+      "United States dollar":{
+         "symbol":"$",
+         "ISO":"USD",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Equatorial Guinea":{
+      "Central African CFA franc":{
+         "symbol":"Fr",
+         "ISO":"XAF",
+         "fractional":"Centime",
+         "base":"100"
+      }
+   },
+   "Eritrea":{
+      "Eritrean nakfa":{
+         "symbol":"Nfk",
+         "ISO":"ERN",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Estonia":{
+      "Euro":{
+         "symbol":"\u20ac",
+         "ISO":"EUR",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Ethiopia":{
+      "Ethiopian birr":{
+         "symbol":"Br",
+         "ISO":"ETB",
+         "fractional":"Santim",
+         "base":"100"
+      }
+   },
+   "Falkland Islands":{
+      "Falkland Islands pound":{
+         "symbol":"\u00a3",
+         "ISO":"FKP",
+         "fractional":"Penny",
+         "base":"100"
+      }
+   },
+   "Faroe Islands":{
+      "Danish krone":{
+         "symbol":"kr",
+         "ISO":"DKK",
+         "fractional":"\u00d8re",
+         "base":"100"
+      },
+      "Faroese kr\u00f3na":{
+         "symbol":"kr",
+         "ISO":"(none)",
+         "fractional":"Oyra",
+         "base":"100"
+      }
+   },
+   "Fiji":{
+      "Fijian dollar":{
+         "symbol":"$",
+         "ISO":"FJD",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Finland":{
+      "Euro":{
+         "symbol":"\u20ac",
+         "ISO":"EUR",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "France":{
+      "Euro":{
+         "symbol":"\u20ac",
+         "ISO":"EUR",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "French Polynesia":{
+      "CFP franc":{
+         "symbol":"Fr",
+         "ISO":"XPF",
+         "fractional":"Centime",
+         "base":"100"
+      }
+   },
+   "Gabon":{
+      "Central African CFA franc":{
+         "symbol":"Fr",
+         "ISO":"XAF",
+         "fractional":"Centime",
+         "base":"100"
+      }
+   },
+   "Gambia, The":{
+      "Gambian dalasi":{
+         "symbol":"D",
+         "ISO":"GMD",
+         "fractional":"Butut",
+         "base":"100"
+      }
+   },
+   "Georgia":{
+      "Georgian lari":{
+         "symbol":"\u20be",
+         "ISO":"GEL",
+         "fractional":"Tetri",
+         "base":"100"
+      }
+   },
+   "Germany":{
+      "Euro":{
+         "symbol":"\u20ac",
+         "ISO":"EUR",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Ghana":{
+      "Ghanaian cedi":{
+         "symbol":"\u20b5",
+         "ISO":"GHS",
+         "fractional":"Pesewa",
+         "base":"100"
+      }
+   },
+   "Gibraltar":{
+      "Gibraltar pound":{
+         "symbol":"\u00a3",
+         "ISO":"GIP",
+         "fractional":"Penny",
+         "base":"100"
+      }
+   },
+   "Greece":{
+      "Euro":{
+         "symbol":"\u20ac",
+         "ISO":"EUR",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Grenada":{
+      "Eastern Caribbean dollar":{
+         "symbol":"$",
+         "ISO":"XCD",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Guatemala":{
+      "Guatemalan quetzal":{
+         "symbol":"Q",
+         "ISO":"GTQ",
+         "fractional":"Centavo",
+         "base":"100"
+      }
+   },
+   "Guernsey":{
+      "British pound":{
+         "symbol":"\u00a3",
+         "ISO":"GBP",
+         "fractional":"Penny",
+         "base":"100"
+      },
+      "Guernsey pound":{
+         "symbol":"\u00a3",
+         "ISO":"(none)",
+         "fractional":"Penny",
+         "base":"100"
+      }
+   },
+   "Guinea":{
+      "Guinean franc":{
+         "symbol":"Fr",
+         "ISO":"GNF",
+         "fractional":"Centime",
+         "base":"100"
+      }
+   },
+   "Guinea-Bissau":{
+      "West African CFA franc":{
+         "symbol":"Fr",
+         "ISO":"XOF",
+         "fractional":"Centime",
+         "base":"100"
+      }
+   },
+   "Guyana":{
+      "Guyanese dollar":{
+         "symbol":"$",
+         "ISO":"GYD",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Haiti":{
+      "Haitian gourde":{
+         "symbol":"G",
+         "ISO":"HTG",
+         "fractional":"Centime",
+         "base":"100"
+      }
+   },
+   "Honduras":{
+      "Honduran lempira":{
+         "symbol":"L",
+         "ISO":"HNL",
+         "fractional":"Centavo",
+         "base":"100"
+      }
+   },
+   "Hong Kong":{
+      "Hong Kong dollar":{
+         "symbol":"$",
+         "ISO":"HKD",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Hungary":{
+      "Hungarian forint":{
+         "symbol":"Ft",
+         "ISO":"HUF",
+         "fractional":"Fill\u00e9r",
+         "base":"100"
+      }
+   },
+   "Iceland":{
+      "Icelandic kr\u00f3na":{
+         "symbol":"kr",
+         "ISO":"ISK",
+         "fractional":"Eyrir",
+         "base":"100"
+      }
+   },
+   "India":{
+      "Indian rupee":{
+         "symbol":"\u20b9",
+         "ISO":"INR",
+         "fractional":"Paisa",
+         "base":"100"
+      }
+   },
+   "Indonesia":{
+      "Indonesian rupiah":{
+         "symbol":"Rp",
+         "ISO":"IDR",
+         "fractional":"Sen",
+         "base":"100"
+      }
+   },
+   "Iran":{
+      "Iranian rial":{
+         "symbol":"\ufdfc",
+         "ISO":"IRR",
+         "fractional":"Dinar",
+         "base":"100"
+      }
+   },
+   "Iraq":{
+      "Iraqi dinar":{
+         "symbol":"\u0639.\u062f",
+         "ISO":"IQD",
+         "fractional":"Fils",
+         "base":"1000"
+      }
+   },
+   "Ireland":{
+      "Euro":{
+         "symbol":"\u20ac",
+         "ISO":"EUR",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Isle of Man":{
+      "British pound":{
+         "symbol":"\u00a3",
+         "ISO":"GBP",
+         "fractional":"Penny",
+         "base":"100"
+      },
+      "Manx pound":{
+         "symbol":"\u00a3",
+         "ISO":"IMP",
+         "fractional":"Penny",
+         "base":"100"
+      }
+   },
+   "Israel":{
+      "Israeli new shekel":{
+         "symbol":"\u20aa",
+         "ISO":"ILS",
+         "fractional":"Agora",
+         "base":"100"
+      }
+   },
+   "Italy":{
+      "Euro":{
+         "symbol":"\u20ac",
+         "ISO":"EUR",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Jamaica":{
+      "Jamaican dollar":{
+         "symbol":"$",
+         "ISO":"JMD",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Japan":{
+      "Japanese yen":{
+         "symbol":"\u00a5",
+         "ISO":"JPY",
+         "fractional":"Sen",
+         "base":"100"
+      }
+   },
+   "Jersey":{
+      "British pound":{
+         "symbol":"\u00a3",
+         "ISO":"GBP",
+         "fractional":"Penny",
+         "base":"100"
+      },
+      "Jersey pound":{
+         "symbol":"\u00a3",
+         "ISO":"JEP",
+         "fractional":"Penny",
+         "base":"100"
+      }
+   },
+   "Jordan":{
+      "Jordanian dinar":{
+         "symbol":"\u062f.\u0627",
+         "ISO":"JOD",
+         "fractional":"Piastre",
+         "base":"100"
+      }
+   },
+   "Kazakhstan":{
+      "Kazakhstani tenge":{
+         "symbol":"\u20b8",
+         "ISO":"KZT",
+         "fractional":"T\u00ef\u0131n",
+         "base":"100"
+      }
+   },
+   "Kenya":{
+      "Kenyan shilling":{
+         "symbol":"Sh",
+         "ISO":"KES",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Kiribati":{
+      "Australian dollar":{
+         "symbol":"$",
+         "ISO":"AUD",
+         "fractional":"Cent",
+         "base":"100"
+      },
+      "Kiribati dollar":{
+         "symbol":"$",
+         "ISO":"(none)",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Korea, North":{
+      "North Korean won":{
+         "symbol":"\u20a9",
+         "ISO":"KPW",
+         "fractional":"Chon",
+         "base":"100"
+      }
+   },
+   "Korea, South":{
+      "South Korean won":{
+         "symbol":"\u20a9",
+         "ISO":"KRW",
+         "fractional":"Jeon",
+         "base":"100"
+      }
+   },
+   "Kosovo":{
+      "Euro":{
+         "symbol":"\u20ac",
+         "ISO":"EUR",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Kuwait":{
+      "Kuwaiti dinar":{
+         "symbol":"\u062f.\u0643",
+         "ISO":"KWD",
+         "fractional":"Fils",
+         "base":"1000"
+      }
+   },
+   "Kyrgyzstan":{
+      "Kyrgyzstani som":{
+         "symbol":"\u0441",
+         "ISO":"KGS",
+         "fractional":"Tyiyn",
+         "base":"100"
+      }
+   },
+   "Laos":{
+      "Lao kip":{
+         "symbol":"\u20ad",
+         "ISO":"LAK",
+         "fractional":"Att",
+         "base":"100"
+      }
+   },
+   "Latvia":{
+      "Euro":{
+         "symbol":"\u20ac",
+         "ISO":"EUR",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Lebanon":{
+      "Lebanese pound":{
+         "symbol":"\u0644.\u0644",
+         "ISO":"LBP",
+         "fractional":"Piastre",
+         "base":"100"
+      }
+   },
+   "Lesotho":{
+      "Lesotho loti":{
+         "symbol":"L",
+         "ISO":"LSL",
+         "fractional":"Sente",
+         "base":"100"
+      },
+      "South African rand":{
+         "symbol":"R",
+         "ISO":"ZAR",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Liberia":{
+      "Liberian dollar":{
+         "symbol":"$",
+         "ISO":"LRD",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Libya":{
+      "Libyan dinar":{
+         "symbol":"\u0644.\u062f",
+         "ISO":"LYD",
+         "fractional":"Dirham",
+         "base":"1000"
+      }
+   },
+   "Liechtenstein":{
+      "Swiss franc":{
+         "symbol":"Fr",
+         "ISO":"CHF",
+         "fractional":"Rappen",
+         "base":"100"
+      }
+   },
+   "Lithuania":{
+      "Euro":{
+         "symbol":"\u20ac",
+         "ISO":"EUR",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Luxembourg":{
+      "Euro":{
+         "symbol":"\u20ac",
+         "ISO":"EUR",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Macau":{
+      "Macanese pataca":{
+         "symbol":"P",
+         "ISO":"MOP",
+         "fractional":"Avo",
+         "base":"100"
+      }
+   },
+   "Macedonia, Republic of":{
+      "Macedonian denar":{
+         "symbol":"\u0434\u0435\u043d",
+         "ISO":"MKD",
+         "fractional":"Deni",
+         "base":"100"
+      }
+   },
+   "Madagascar":{
+      "Malagasy ariary":{
+         "symbol":"Ar",
+         "ISO":"MGA",
+         "fractional":"Iraimbilanja",
+         "base":"5"
+      }
+   },
+   "Malawi":{
+      "Malawian kwacha":{
+         "symbol":"MK",
+         "ISO":"MWK",
+         "fractional":"Tambala",
+         "base":"100"
+      }
+   },
+   "Malaysia":{
+      "Malaysian ringgit":{
+         "symbol":"RM",
+         "ISO":"MYR",
+         "fractional":"Sen",
+         "base":"100"
+      }
+   },
+   "Maldives":{
+      "Maldivian rufiyaa":{
+         "symbol":".\u0783",
+         "ISO":"MVR",
+         "fractional":"Laari",
+         "base":"100"
+      }
+   },
+   "Mali":{
+      "West African CFA franc":{
+         "symbol":"Fr",
+         "ISO":"XOF",
+         "fractional":"Centime",
+         "base":"100"
+      }
+   },
+   "Malta":{
+      "Euro":{
+         "symbol":"\u20ac",
+         "ISO":"EUR",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Marshall Islands":{
+      "United States dollar":{
+         "symbol":"$",
+         "ISO":"USD",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Mauritania":{
+      "Mauritanian ouguiya":{
+         "symbol":"UM",
+         "ISO":"MRU",
+         "fractional":"Khoums",
+         "base":"5"
+      }
+   },
+   "Mauritius":{
+      "Mauritian rupee":{
+         "symbol":"\u20a8",
+         "ISO":"MUR",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Mexico":{
+      "Mexican peso":{
+         "symbol":"$",
+         "ISO":"MXN",
+         "fractional":"Centavo",
+         "base":"100"
+      }
+   },
+   "Micronesia":{
+      "Micronesian dollar":{
+         "symbol":"$",
+         "ISO":"(none)",
+         "fractional":"Cent",
+         "base":"100"
+      },
+      "United States dollar":{
+         "symbol":"$",
+         "ISO":"USD",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Moldova":{
+      "Moldovan leu":{
+         "symbol":"L",
+         "ISO":"MDL",
+         "fractional":"Ban",
+         "base":"100"
+      }
+   },
+   "Monaco":{
+      "Euro":{
+         "symbol":"\u20ac",
+         "ISO":"EUR",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Mongolia":{
+      "Mongolian t\u00f6gr\u00f6g":{
+         "symbol":"\u20ae",
+         "ISO":"MNT",
+         "fractional":"M\u00f6ng\u00f6",
+         "base":"100"
+      }
+   },
+   "Montenegro":{
+      "Euro":{
+         "symbol":"\u20ac",
+         "ISO":"EUR",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Montserrat":{
+      "Eastern Caribbean dollar":{
+         "symbol":"$",
+         "ISO":"XCD",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Morocco":{
+      "Moroccan dirham":{
+         "symbol":"\u062f.\u0645.",
+         "ISO":"MAD",
+         "fractional":"Centime",
+         "base":"100"
+      }
+   },
+   "Mozambique":{
+      "Mozambican metical":{
+         "symbol":"MT",
+         "ISO":"MZN",
+         "fractional":"Centavo",
+         "base":"100"
+      }
+   },
+   "Myanmar":{
+      "Burmese kyat":{
+         "symbol":"Ks",
+         "ISO":"MMK",
+         "fractional":"Pya",
+         "base":"100"
+      }
+   },
+   "Namibia":{
+      "Namibian dollar":{
+         "symbol":"$",
+         "ISO":"NAD",
+         "fractional":"Cent",
+         "base":"100"
+      },
+      "South African rand":{
+         "symbol":"R",
+         "ISO":"ZAR",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Nauru":{
+      "Australian dollar":{
+         "symbol":"$",
+         "ISO":"AUD",
+         "fractional":"Cent",
+         "base":"100"
+      },
+      "Nauruan dollar":{
+         "symbol":"$",
+         "ISO":"(none)",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Nepal":{
+      "Nepalese rupee":{
+         "symbol":"\u20a8",
+         "ISO":"NPR",
+         "fractional":"Paisa",
+         "base":"100"
+      },
+      "Indian rupee":{
+         "symbol":"\u20b9",
+         "ISO":"INR",
+         "fractional":"Paisa",
+         "base":"100"
+      }
+   },
+   "Netherlands":{
+      "Euro":{
+         "symbol":"\u20ac",
+         "ISO":"EUR",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "New Caledonia":{
+      "CFP franc":{
+         "symbol":"Fr",
+         "ISO":"XPF",
+         "fractional":"Centime",
+         "base":"100"
+      }
+   },
+   "New Zealand":{
+      "New Zealand dollar":{
+         "symbol":"$",
+         "ISO":"NZD",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Nicaragua":{
+      "Nicaraguan c\u00f3rdoba":{
+         "symbol":"C$",
+         "ISO":"NIO",
+         "fractional":"Centavo",
+         "base":"100"
+      }
+   },
+   "Niger":{
+      "West African CFA franc":{
+         "symbol":"Fr",
+         "ISO":"XOF",
+         "fractional":"Centime",
+         "base":"100"
+      }
+   },
+   "Nigeria":{
+      "Nigerian naira":{
+         "symbol":"\u20a6",
+         "ISO":"NGN",
+         "fractional":"Kobo",
+         "base":"100"
+      }
+   },
+   "Niue":{
+      "New Zealand dollar":{
+         "symbol":"$",
+         "ISO":"NZD",
+         "fractional":"Cent",
+         "base":"100"
+      },
+      "Niue dollar":{
+         "symbol":"$",
+         "ISO":"(none)",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Northern Cyprus":{
+      "Turkish lira":{
+         "symbol":"\u20ba",
+         "ISO":"TRY",
+         "fractional":"Kuru\u015f",
+         "base":"100"
+      }
+   },
+   "Norway":{
+      "Norwegian krone":{
+         "symbol":"kr",
+         "ISO":"NOK",
+         "fractional":"\u00d8re",
+         "base":"100"
+      }
+   },
+   "Oman":{
+      "Omani rial":{
+         "symbol":"\u0631.\u0639.",
+         "ISO":"OMR",
+         "fractional":"Baisa",
+         "base":"1000"
+      }
+   },
+   "Pakistan":{
+      "Pakistani rupee":{
+         "symbol":"\u20a8",
+         "ISO":"PKR",
+         "fractional":"Paisa",
+         "base":"100"
+      }
+   },
+   "Palau":{
+      "Palauan dollar":{
+         "symbol":"$",
+         "ISO":"(none)",
+         "fractional":"Cent",
+         "base":"100"
+      },
+      "United States dollar":{
+         "symbol":"$",
+         "ISO":"USD",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Palestine":{
+      "Israeli new shekel":{
+         "symbol":"\u20aa",
+         "ISO":"ILS",
+         "fractional":"Agora",
+         "base":"100"
+      },
+      "Jordanian dinar":{
+         "symbol":"\u062f.\u0627",
+         "ISO":"JOD",
+         "fractional":"Piastre",
+         "base":"100"
+      }
+   },
+   "Panama":{
+      "Panamanian balboa":{
+         "symbol":"B/.",
+         "ISO":"PAB",
+         "fractional":"Cent\u00e9simo",
+         "base":"100"
+      },
+      "United States dollar":{
+         "symbol":"$",
+         "ISO":"USD",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Papua New Guinea":{
+      "Papua New Guinean kina":{
+         "symbol":"K",
+         "ISO":"PGK",
+         "fractional":"Toea",
+         "base":"100"
+      }
+   },
+   "Paraguay":{
+      "Paraguayan guaran\u00ed":{
+         "symbol":"\u20b2",
+         "ISO":"PYG",
+         "fractional":"C\u00e9ntimo",
+         "base":"100"
+      }
+   },
+   "Peru":{
+      "Peruvian sol":{
+         "symbol":"S/.",
+         "ISO":"PEN",
+         "fractional":"C\u00e9ntimo",
+         "base":"100"
+      }
+   },
+   "Philippines":{
+      "Philippine piso":{
+         "symbol":"\u20b1",
+         "ISO":"PHP",
+         "fractional":"Sentimo",
+         "base":"100"
+      }
+   },
+   "Pitcairn Islands":{
+      "New Zealand dollar":{
+         "symbol":"$",
+         "ISO":"NZD",
+         "fractional":"Cent",
+         "base":"100"
+      },
+      "Pitcairn Islands dollar":{
+         "symbol":"$",
+         "ISO":"(none)",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Poland":{
+      "Polish z\u0142oty":{
+         "symbol":"z\u0142",
+         "ISO":"PLN",
+         "fractional":"Grosz",
+         "base":"100"
+      }
+   },
+   "Portugal":{
+      "Euro":{
+         "symbol":"\u20ac",
+         "ISO":"EUR",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Qatar":{
+      "Qatari riyal":{
+         "symbol":"\u0631.\u0642",
+         "ISO":"QAR",
+         "fractional":"Dirham",
+         "base":"100"
+      }
+   },
+   "Romania":{
+      "Romanian leu":{
+         "symbol":"lei",
+         "ISO":"RON",
+         "fractional":"Ban",
+         "base":"100"
+      }
+   },
+   "Russia":{
+      "Russian ruble":{
+         "symbol":"\u20bd",
+         "ISO":"RUB",
+         "fractional":"Kopek",
+         "base":"100"
+      }
+   },
+   "Rwanda":{
+      "Rwandan franc":{
+         "symbol":"Fr",
+         "ISO":"RWF",
+         "fractional":"Centime",
+         "base":"100"
+      }
+   },
+   "Saba":{
+      "United States dollar":{
+         "symbol":"$",
+         "ISO":"USD",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Sahrawi Republic":{
+      "Algerian dinar":{
+         "symbol":"\u062f.\u062c",
+         "ISO":"DZD",
+         "fractional":"Santeem",
+         "base":"100"
+      },
+      "Mauritanian ouguiya":{
+         "symbol":"UM",
+         "ISO":"MRU",
+         "fractional":"Khoums",
+         "base":"5"
+      },
+      "Moroccan dirham":{
+         "symbol":"\u062f. \u0645.",
+         "ISO":"MAD",
+         "fractional":"Centime",
+         "base":"100"
+      },
+      "Sahrawi peseta":{
+         "symbol":"\u20a7 or Ptas",
+         "ISO":"(none)",
+         "fractional":"Centime",
+         "base":"100"
+      }
+   },
+   "Saint Helena":{
+      "Saint Helena pound":{
+         "symbol":"\u00a3",
+         "ISO":"SHP",
+         "fractional":"Penny",
+         "base":"100"
+      }
+   },
+   "Saint Kitts and Nevis":{
+      "Eastern Caribbean dollar":{
+         "symbol":"$",
+         "ISO":"XCD",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Saint Lucia":{
+      "Eastern Caribbean dollar":{
+         "symbol":"$",
+         "ISO":"XCD",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Saint Vincent and the Grenadines":{
+      "Eastern Caribbean dollar":{
+         "symbol":"$",
+         "ISO":"XCD",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Samoa":{
+      "Samoan t\u0101l\u0101":{
+         "symbol":"T",
+         "ISO":"WST",
+         "fractional":"Sene",
+         "base":"100"
+      }
+   },
+   "San Marino":{
+      "Euro":{
+         "symbol":"\u20ac",
+         "ISO":"EUR",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "S\u00e3o Tom\u00e9 and Pr\u00edncipe":{
+      "S\u00e3o Tom\u00e9 and Pr\u00edncipe dobra":{
+         "symbol":"Db",
+         "ISO":"STN",
+         "fractional":"C\u00eantimo",
+         "base":"100"
+      }
+   },
+   "Saudi Arabia":{
+      "Saudi riyal":{
+         "symbol":"\u0631.\u0633",
+         "ISO":"SAR",
+         "fractional":"Halala",
+         "base":"100"
+      }
+   },
+   "Senegal":{
+      "West African CFA franc":{
+         "symbol":"Fr",
+         "ISO":"XOF",
+         "fractional":"Centime",
+         "base":"100"
+      }
+   },
+   "Serbia":{
+      "Serbian dinar":{
+         "symbol":"\u0434\u0438\u043d. or din.",
+         "ISO":"RSD",
+         "fractional":"Para",
+         "base":"100"
+      }
+   },
+   "Seychelles":{
+      "Seychellois rupee":{
+         "symbol":"\u20a8",
+         "ISO":"SCR",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Sierra Leone":{
+      "Sierra Leonean leone":{
+         "symbol":"Le",
+         "ISO":"SLL",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Singapore":{
+      "Brunei dollar":{
+         "symbol":"$",
+         "ISO":"BND",
+         "fractional":"Sen",
+         "base":"100"
+      },
+      "Singapore dollar":{
+         "symbol":"$",
+         "ISO":"SGD",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Sint Eustatius":{
+      "United States dollar":{
+         "symbol":"$",
+         "ISO":"USD",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Sint Maarten":{
+      "Netherlands Antillean guilder":{
+         "symbol":"\u0192",
+         "ISO":"ANG",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Slovakia":{
+      "Euro":{
+         "symbol":"\u20ac",
+         "ISO":"EUR",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Slovenia":{
+      "Euro":{
+         "symbol":"\u20ac",
+         "ISO":"EUR",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Solomon Islands":{
+      "Solomon Islands dollar":{
+         "symbol":"$",
+         "ISO":"SBD",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Somalia":{
+      "Somali shilling":{
+         "symbol":"Sh",
+         "ISO":"SOS",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Somaliland":{
+      "Somaliland shilling":{
+         "symbol":"Sl",
+         "ISO":"(none)",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "South Africa":{
+      "South African rand":{
+         "symbol":"R",
+         "ISO":"ZAR",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "South Georgia and the South Sandwich Islands":{
+      "British pound":{
+         "symbol":"\u00a3",
+         "ISO":"GBP",
+         "fractional":"Penny",
+         "base":"100"
+      },
+      "South Georgia and the South Sandwich Islands pound":{
+         "symbol":"\u00a3",
+         "ISO":"(none)",
+         "fractional":"Penny",
+         "base":"100"
+      }
+   },
+   "South Ossetia":{
+      "Russian ruble":{
+         "symbol":"\u20bd",
+         "ISO":"RUB",
+         "fractional":"Kopek",
+         "base":"100"
+      }
+   },
+   "Spain":{
+      "Euro":{
+         "symbol":"\u20ac",
+         "ISO":"EUR",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "South Sudan":{
+      "South Sudanese pound":{
+         "symbol":"\u00a3",
+         "ISO":"SSP",
+         "fractional":"Piastre",
+         "base":"100"
+      }
+   },
+   "Sri Lanka":{
+      "Sri Lankan rupee":{
+         "symbol":"Rs \u0dbb\u0dd4 or \u0bb0\u0bc2",
+         "ISO":"LKR",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Sudan":{
+      "Sudanese pound":{
+         "symbol":"\u062c.\u0633.",
+         "ISO":"SDG",
+         "fractional":"Piastre",
+         "base":"100"
+      }
+   },
+   "Suriname":{
+      "Surinamese dollar":{
+         "symbol":"$",
+         "ISO":"SRD",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Swaziland":{
+      "Swazi lilangeni":{
+         "symbol":"L",
+         "ISO":"SZL",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Sweden":{
+      "Swedish krona":{
+         "symbol":"kr",
+         "ISO":"SEK",
+         "fractional":"\u00d6re",
+         "base":"100"
+      }
+   },
+   "Switzerland":{
+      "Swiss franc":{
+         "symbol":"Fr",
+         "ISO":"CHF",
+         "fractional":"Rappen",
+         "base":"100"
+      }
+   },
+   "Syria":{
+      "Syrian pound":{
+         "symbol":"\u00a3 or \u0644.\u0633",
+         "ISO":"SYP",
+         "fractional":"Piastre",
+         "base":"100"
+      }
+   },
+   "Taiwan":{
+      "New Taiwan dollar":{
+         "symbol":"$",
+         "ISO":"TWD",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Tajikistan":{
+      "Tajikistani somoni":{
+         "symbol":"\u0405\u041c",
+         "ISO":"TJS",
+         "fractional":"Diram",
+         "base":"100"
+      }
+   },
+   "Tanzania":{
+      "Tanzanian shilling":{
+         "symbol":"Sh",
+         "ISO":"TZS",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Thailand":{
+      "Thai baht":{
+         "symbol":"\u0e3f",
+         "ISO":"THB",
+         "fractional":"Satang",
+         "base":"100"
+      }
+   },
+   "Togo":{
+      "West African CFA franc":{
+         "symbol":"Fr",
+         "ISO":"XOF",
+         "fractional":"Centime",
+         "base":"100"
+      }
+   },
+   "Tonga":{
+      "Tongan pa\u02bbanga":{
+         "symbol":"T$",
+         "ISO":"TOP",
+         "fractional":"Seniti",
+         "base":"100"
+      }
+   },
+   "Transnistria":{
+      "Transnistrian ruble":{
+         "symbol":"\u0440.",
+         "ISO":"PRB",
+         "fractional":"Kopek",
+         "base":"100"
+      }
+   },
+   "Trinidad and Tobago":{
+      "Trinidad and Tobago dollar":{
+         "symbol":"$",
+         "ISO":"TTD",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Tristan da Cunha":{
+      "Saint Helena pound":{
+         "symbol":"\u00a3",
+         "ISO":"SHP",
+         "fractional":"Penny",
+         "base":"100"
+      },
+      "Tristan da Cunha pound":{
+         "symbol":"\u00a3",
+         "ISO":"(none)",
+         "fractional":"Penny",
+         "base":"100"
+      }
+   },
+   "Tunisia":{
+      "Tunisian dinar":{
+         "symbol":"\u062f.\u062a",
+         "ISO":"TND",
+         "fractional":"Millime",
+         "base":"1000"
+      }
+   },
+   "Turkey":{
+      "Turkish lira":{
+         "symbol":"\u20ba",
+         "ISO":"TRY",
+         "fractional":"Kuru\u015f",
+         "base":"100"
+      }
+   },
+   "Turkmenistan":{
+      "Turkmenistan manat":{
+         "symbol":"m",
+         "ISO":"TMT",
+         "fractional":"Tennesi",
+         "base":"100"
+      }
+   },
+   "Turks and Caicos Islands":{
+      "United States dollar":{
+         "symbol":"$",
+         "ISO":"USD",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Tuvalu":{
+      "Australian dollar":{
+         "symbol":"$",
+         "ISO":"AUD",
+         "fractional":"Cent",
+         "base":"100"
+      },
+      "Tuvaluan dollar":{
+         "symbol":"$",
+         "ISO":"TVD",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Uganda":{
+      "Ugandan shilling":{
+         "symbol":"Sh",
+         "ISO":"UGX",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Ukraine":{
+      "Ukrainian hryvnia":{
+         "symbol":"\u20b4",
+         "ISO":"UAH",
+         "fractional":"Kopiyka",
+         "base":"100"
+      },
+      "Russian ruble":{
+         "symbol":"\u20bd",
+         "ISO":"RUB",
+         "fractional":"Kopek",
+         "base":"100"
+      }
+   },
+   "United Arab Emirates":{
+      "United Arab Emirates dirham":{
+         "symbol":"\u062f.\u0625",
+         "ISO":"AED",
+         "fractional":"Fils",
+         "base":"100"
+      }
+   },
+   "United Kingdom":{
+      "British pound":{
+         "symbol":"\u00a3",
+         "ISO":"GBP",
+         "fractional":"Penny",
+         "base":"100"
+      }
+   },
+   "United States":{
+      "United States dollar":{
+         "symbol":"$",
+         "ISO":"USD",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Uruguay":{
+      "Uruguayan peso":{
+         "symbol":"$",
+         "ISO":"UYU",
+         "fractional":"Cent\u00e9simo",
+         "base":"100"
+      }
+   },
+   "Uzbekistan":{
+      "Uzbekistani so\u02bbm":{
+         "symbol":"so'm or \u0441\u045e\u043c",
+         "ISO":"UZS",
+         "fractional":"Tiyin",
+         "base":"100"
+      }
+   },
+   "Vanuatu":{
+      "Vanuatu vatu":{
+         "symbol":"Vt",
+         "ISO":"VUV",
+         "fractional":"(none)",
+         "base":"(none)"
+      }
+   },
+   "Vatican City":{
+      "Euro":{
+         "symbol":"\u20ac",
+         "ISO":"EUR",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   },
+   "Venezuela":{
+      "Venezuelan bol\u00edvar soberano":{
+         "symbol":"Bs.S. or Bs.",
+         "ISO":"VES",
+         "fractional":"C\u00e9ntimo",
+         "base":"100"
+      }
+   },
+   "Vietnam":{
+      "Vietnamese \u0111\u1ed3ng":{
+         "symbol":"\u20ab",
+         "ISO":"VND",
+         "fractional":"H\u00e0o",
+         "base":"10"
+      }
+   },
+   "Wallis and Futuna":{
+      "CFP franc":{
+         "symbol":"Fr",
+         "ISO":"XPF",
+         "fractional":"Centime",
+         "base":"100"
+      }
+   },
+   "Yemen":{
+      "Yemeni rial":{
+         "symbol":"\ufdfc",
+         "ISO":"YER",
+         "fractional":"Fils",
+         "base":"100"
+      }
+   },
+   "Zambia":{
+      "Zambian kwacha":{
+         "symbol":"ZK",
+         "ISO":"ZMW",
+         "fractional":"Ngwee",
+         "base":"100"
+      }
+   },
+   "Zimbabwe":{
+      "Botswana pula":{
+         "symbol":"P",
+         "ISO":"BWP",
+         "fractional":"Thebe",
+         "base":"100"
+      },
+      "British pound":{
+         "symbol":"\u00a3",
+         "ISO":"GBP",
+         "fractional":"Penny",
+         "base":"100"
+      },
+      "Chinese yuan":{
+         "symbol":"\u00a5 or \u5143",
+         "ISO":"CNY",
+         "fractional":"Fen",
+         "base":"100"
+      },
+      "Euro":{
+         "symbol":"\u20ac",
+         "ISO":"EUR",
+         "fractional":"Cent",
+         "base":"100"
+      },
+      "Indian rupee":{
+         "symbol":"\u20b9",
+         "ISO":"INR",
+         "fractional":"Paisa",
+         "base":"100"
+      },
+      "Japanese yen":{
+         "symbol":"\u00a5",
+         "ISO":"JPY",
+         "fractional":"Sen",
+         "base":"100"
+      },
+      "South African rand":{
+         "symbol":"Rs",
+         "ISO":"ZAR",
+         "fractional":"Cent",
+         "base":"100"
+      },
+      "United States dollar":{
+         "symbol":"$",
+         "ISO":"USD",
+         "fractional":"Cent",
+         "base":"100"
+      }
+   }
+}

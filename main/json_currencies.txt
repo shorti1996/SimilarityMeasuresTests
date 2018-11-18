@@ -1,0 +1,2207 @@
+[
+   [
+      " Abkhazia\t",
+      "Abkhazian apsar[E]\t",
+      "(none)\t",
+      "(none)\t",
+      "(none)\t",
+      "(none)"
+   ],
+   [
+      "Russian ruble\t",
+      "₽\t",
+      "RUB\t",
+      "Kopek\t",
+      "100"
+   ],
+   [
+      " Afghanistan\t",
+      "Afghan afghani\t",
+      "؋\t",
+      "AFN\t",
+      "Pul\t",
+      "100"
+   ],
+   [
+      " Akrotiri and Dhekelia\t",
+      "Euro\t",
+      "€\t",
+      "EUR\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Albania\t",
+      "Albanian lek\t",
+      "L\t",
+      "ALL\t",
+      "Qindarkë\t",
+      "100"
+   ],
+   [
+      " Alderney\t",
+      "Alderney pound[E]\t",
+      "£\t",
+      "(none)\t",
+      "Penny\t",
+      "100"
+   ],
+   [
+      "British pound[F]\t",
+      "£\t",
+      "GBP\t",
+      "Penny\t",
+      "100"
+   ],
+   [
+      "Guernsey pound\t",
+      "£\t",
+      "GGP[G]\t",
+      "Penny\t",
+      "100"
+   ],
+   [
+      " Algeria\t",
+      "Algerian dinar\t",
+      "د.ج\t",
+      "DZD\t",
+      "Santeem\t",
+      "100"
+   ],
+   [
+      " Andorra\t",
+      "Euro\t",
+      "€\t",
+      "EUR\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Angola\t",
+      "Angolan kwanza\t",
+      "Kz\t",
+      "AOA\t",
+      "Cêntimo\t",
+      "100"
+   ],
+   [
+      " Anguilla\t",
+      "Eastern Caribbean dollar\t",
+      "$\t",
+      "XCD\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Antigua and Barbuda\t",
+      "Eastern Caribbean dollar\t",
+      "$\t",
+      "XCD\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Argentina\t",
+      "Argentine peso\t",
+      "$\t",
+      "ARS\t",
+      "Centavo\t",
+      "100"
+   ],
+   [
+      " Armenia\t",
+      "Armenian dram\t",
+      "֏\t",
+      "AMD\t",
+      "Luma\t",
+      "100"
+   ],
+   [
+      " Republic of Artsakh\t",
+      "Armenian dram\t",
+      "֏\t",
+      "AMD\t",
+      "Luma\t",
+      "100"
+   ],
+   [
+      "Artsakh dram[E]\t",
+      "դր.\t",
+      "(none)\t",
+      "Luma\t",
+      "100"
+   ],
+   [
+      " Aruba\t",
+      "Aruban florin\t",
+      "ƒ\t",
+      "AWG\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      "Ascension Island\t",
+      "Ascension pound[E]\t",
+      "£\t",
+      "(none)\t",
+      "Penny\t",
+      "100"
+   ],
+   [
+      "Saint Helena pound\t",
+      "£\t",
+      "SHP\t",
+      "Penny\t",
+      "100"
+   ],
+   [
+      " Australia\t",
+      "Australian dollar\t",
+      "$\t",
+      "AUD\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Austria\t",
+      "Euro\t",
+      "€\t",
+      "EUR\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Azerbaijan\t",
+      "Azerbaijani manat\t",
+      "₼\t",
+      "AZN\t",
+      "Qəpik\t",
+      "100"
+   ],
+   [
+      " Bahamas, The\t",
+      "Bahamian dollar\t",
+      "$\t",
+      "BSD\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Bahrain\t",
+      "Bahraini dinar\t",
+      ".د.ب\t",
+      "BHD\t",
+      "Fils\t",
+      "1000"
+   ],
+   [
+      " Bangladesh\t",
+      "Bangladeshi taka\t",
+      "৳\t",
+      "BDT\t",
+      "Poisha\t",
+      "100"
+   ],
+   [
+      " Barbados\t",
+      "Barbadian dollar\t",
+      "$\t",
+      "BBD\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Belarus\t",
+      "Belarusian ruble\t",
+      "Br\t",
+      "BYN\t",
+      "Kapyeyka\t",
+      "100"
+   ],
+   [
+      " Belgium\t",
+      "Euro\t",
+      "€\t",
+      "EUR\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Belize\t",
+      "Belize dollar\t",
+      "$\t",
+      "BZD\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Benin\t",
+      "West African CFA franc\t",
+      "Fr\t",
+      "XOF\t",
+      "Centime\t",
+      "100"
+   ],
+   [
+      " Bermuda\t",
+      "Bermudian dollar\t",
+      "$\t",
+      "BMD\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Bhutan\t",
+      "Bhutanese ngultrum\t",
+      "Nu.\t",
+      "BTN\t",
+      "Chetrum\t",
+      "100"
+   ],
+   [
+      "Indian rupee\t",
+      "₹\t",
+      "INR\t",
+      "Paisa\t",
+      "100"
+   ],
+   [
+      " Bolivia\t",
+      "Bolivian boliviano\t",
+      "Bs.\t",
+      "BOB\t",
+      "Centavo\t",
+      "100"
+   ],
+   [
+      " Bonaire\t",
+      "United States dollar\t",
+      "$\t",
+      "USD\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Bosnia and Herzegovina\t",
+      "Bosnia and Herzegovina convertible mark\t",
+      "KM or КМ[H]\t",
+      "BAM\t",
+      "Fening\t",
+      "100"
+   ],
+   [
+      " Botswana\t",
+      "Botswana pula\t",
+      "P\t",
+      "BWP\t",
+      "Thebe\t",
+      "100"
+   ],
+   [
+      " Brazil\t",
+      "Brazilian real\t",
+      "R$\t",
+      "BRL\t",
+      "Centavo\t",
+      "100"
+   ],
+   [
+      " British Indian Ocean Territory\t",
+      "United States dollar\t",
+      "$\t",
+      "USD\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " British Virgin Islands\t",
+      "British Virgin Islands dollar[E]\t",
+      "$\t",
+      "(none)\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      "United States dollar\t",
+      "$\t",
+      "USD\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Brunei\t",
+      "Brunei dollar\t",
+      "$\t",
+      "BND\t",
+      "Sen\t",
+      "100"
+   ],
+   [
+      "Singapore dollar\t",
+      "$\t",
+      "SGD\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Bulgaria\t",
+      "Bulgarian lev\t",
+      "лв\t",
+      "BGN\t",
+      "Stotinka\t",
+      "100"
+   ],
+   [
+      " Burkina Faso\t",
+      "West African CFA franc\t",
+      "Fr\t",
+      "XOF\t",
+      "Centime\t",
+      "100"
+   ],
+   [
+      " Burundi\t",
+      "Burundian franc\t",
+      "Fr\t",
+      "BIF\t",
+      "Centime\t",
+      "100"
+   ],
+   [
+      " Cambodia\t",
+      "Cambodian riel\t",
+      "៛\t",
+      "KHR\t",
+      "Sen\t",
+      "100"
+   ],
+   [
+      "United States dollar\t",
+      "$\t",
+      "USD\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Cameroon\t",
+      "Central African CFA franc\t",
+      "Fr\t",
+      "XAF\t",
+      "Centime\t",
+      "100"
+   ],
+   [
+      " Canada\t",
+      "Canadian dollar\t",
+      "$\t",
+      "CAD\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Cape Verde\t",
+      "Cape Verdean escudo\t",
+      "Esc or $\t",
+      "CVE\t",
+      "Centavo\t",
+      "100"
+   ],
+   [
+      " Cayman Islands\t",
+      "Cayman Islands dollar\t",
+      "$\t",
+      "KYD\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Central African Republic\t",
+      "Central African CFA franc\t",
+      "Fr\t",
+      "XAF\t",
+      "Centime\t",
+      "100"
+   ],
+   [
+      " Chad\t",
+      "Central African CFA franc\t",
+      "Fr\t",
+      "XAF\t",
+      "Centime\t",
+      "100"
+   ],
+   [
+      " Chile\t",
+      "Chilean peso\t",
+      "$\t",
+      "CLP\t",
+      "Centavo\t",
+      "100"
+   ],
+   [
+      " China\t",
+      "Chinese yuan\t",
+      "¥ or 元\t",
+      "CNY\t",
+      "Fen[I]\t",
+      "100"
+   ],
+   [
+      " Cocos (Keeling) Islands\t",
+      "Australian dollar\t",
+      "$\t",
+      "AUD\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Colombia\t",
+      "Colombian peso\t",
+      "$\t",
+      "COP\t",
+      "Centavo\t",
+      "100"
+   ],
+   [
+      " Comoros\t",
+      "Comorian franc\t",
+      "Fr\t",
+      "KMF\t",
+      "Centime\t",
+      "100"
+   ],
+   [
+      " Congo, Democratic Republic of the\t",
+      "Congolese franc\t",
+      "Fr\t",
+      "CDF\t",
+      "Centime\t",
+      "100"
+   ],
+   [
+      " Congo, Republic of the\t",
+      "Central African CFA franc\t",
+      "Fr\t",
+      "XAF\t",
+      "Centime\t",
+      "100"
+   ],
+   [
+      " Cook Islands\t",
+      "New Zealand dollar\t",
+      "$\t",
+      "NZD\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      "Cook Islands dollar\t",
+      "$\t",
+      "(none)\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Costa Rica\t",
+      "Costa Rican colón\t",
+      "₡\t",
+      "CRC\t",
+      "Céntimo\t",
+      "100"
+   ],
+   [
+      " Côte d'Ivoire\t",
+      "West African CFA franc\t",
+      "Fr\t",
+      "XOF\t",
+      "Centime\t",
+      "100"
+   ],
+   [
+      " Croatia\t",
+      "Croatian kuna\t",
+      "kn\t",
+      "HRK\t",
+      "Lipa\t",
+      "100"
+   ],
+   [
+      " Cuba\t",
+      "Cuban convertible peso\t",
+      "$\t",
+      "CUC\t",
+      "Centavo\t",
+      "100"
+   ],
+   [
+      "Cuban peso\t",
+      "$\t",
+      "CUP\t",
+      "Centavo\t",
+      "100"
+   ],
+   [
+      " Curaçao\t",
+      "Netherlands Antillean guilder\t",
+      "ƒ\t",
+      "ANG\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Cyprus\t",
+      "Euro\t",
+      "€\t",
+      "EUR\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Czech Republic\t",
+      "Czech koruna\t",
+      "Kč\t",
+      "CZK\t",
+      "Haléř\t",
+      "100"
+   ],
+   [
+      " Denmark\t",
+      "Danish krone\t",
+      "kr\t",
+      "DKK\t",
+      "Øre\t",
+      "100"
+   ],
+   [
+      " Djibouti\t",
+      "Djiboutian franc\t",
+      "Fr\t",
+      "DJF\t",
+      "Centime\t",
+      "100"
+   ],
+   [
+      " Dominica\t",
+      "Eastern Caribbean dollar\t",
+      "$\t",
+      "XCD\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Dominican Republic\t",
+      "Dominican peso\t",
+      "$\t",
+      "DOP\t",
+      "Centavo\t",
+      "100"
+   ],
+   [
+      " East Timor\t",
+      "United States dollar\t",
+      "$\t",
+      "USD\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      "(none)\t",
+      "(none)\t",
+      "(none)\t",
+      "Centavo[J]\t",
+      "(none)"
+   ],
+   [
+      " Ecuador\t",
+      "United States dollar\t",
+      "$\t",
+      "USD\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      "(none)\t",
+      "(none)\t",
+      "(none)\t",
+      "Centavo[J]\t",
+      "(none)"
+   ],
+   [
+      " Egypt\t",
+      "Egyptian pound\t",
+      "£ or ج.م\t",
+      "EGP\t",
+      "Piastre[B]\t",
+      "100"
+   ],
+   [
+      " El Salvador\t",
+      "United States dollar\t",
+      "$\t",
+      "USD\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Equatorial Guinea\t",
+      "Central African CFA franc\t",
+      "Fr\t",
+      "XAF\t",
+      "Centime\t",
+      "100"
+   ],
+   [
+      " Eritrea\t",
+      "Eritrean nakfa\t",
+      "Nfk\t",
+      "ERN\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Estonia\t",
+      "Euro\t",
+      "€\t",
+      "EUR\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Ethiopia\t",
+      "Ethiopian birr\t",
+      "Br\t",
+      "ETB\t",
+      "Santim\t",
+      "100"
+   ],
+   [
+      " Falkland Islands\t",
+      "Falkland Islands pound\t",
+      "£\t",
+      "FKP\t",
+      "Penny\t",
+      "100"
+   ],
+   [
+      " Faroe Islands\t",
+      "Danish krone\t",
+      "kr\t",
+      "DKK\t",
+      "Øre\t",
+      "100"
+   ],
+   [
+      "Faroese króna\t",
+      "kr\t",
+      "(none)\t",
+      "Oyra\t",
+      "100"
+   ],
+   [
+      " Fiji\t",
+      "Fijian dollar\t",
+      "$\t",
+      "FJD\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Finland\t",
+      "Euro\t",
+      "€\t",
+      "EUR\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " France\t",
+      "Euro\t",
+      "€\t",
+      "EUR\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " French Polynesia\t",
+      "CFP franc\t",
+      "Fr\t",
+      "XPF\t",
+      "Centime\t",
+      "100"
+   ],
+   [
+      " Gabon\t",
+      "Central African CFA franc\t",
+      "Fr\t",
+      "XAF\t",
+      "Centime\t",
+      "100"
+   ],
+   [
+      " Gambia, The\t",
+      "Gambian dalasi\t",
+      "D\t",
+      "GMD\t",
+      "Butut\t",
+      "100"
+   ],
+   [
+      " Georgia\t",
+      "Georgian lari\t",
+      "₾\t",
+      "GEL\t",
+      "Tetri\t",
+      "100"
+   ],
+   [
+      " Germany\t",
+      "Euro\t",
+      "€\t",
+      "EUR\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Ghana\t",
+      "Ghanaian cedi\t",
+      "₵\t",
+      "GHS\t",
+      "Pesewa\t",
+      "100"
+   ],
+   [
+      " Gibraltar\t",
+      "Gibraltar pound\t",
+      "£\t",
+      "GIP\t",
+      "Penny\t",
+      "100"
+   ],
+   [
+      " Greece\t",
+      "Euro\t",
+      "€\t",
+      "EUR\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Grenada\t",
+      "Eastern Caribbean dollar\t",
+      "$\t",
+      "XCD\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Guatemala\t",
+      "Guatemalan quetzal\t",
+      "Q\t",
+      "GTQ\t",
+      "Centavo\t",
+      "100"
+   ],
+   [
+      " Guernsey\t",
+      "British pound[F]\t",
+      "£\t",
+      "GBP\t",
+      "Penny\t",
+      "100"
+   ],
+   [
+      "Guernsey pound\t",
+      "£\t",
+      "(none)\t",
+      "Penny\t",
+      "100"
+   ],
+   [
+      " Guinea\t",
+      "Guinean franc\t",
+      "Fr\t",
+      "GNF\t",
+      "Centime\t",
+      "100"
+   ],
+   [
+      " Guinea-Bissau\t",
+      "West African CFA franc\t",
+      "Fr\t",
+      "XOF\t",
+      "Centime\t",
+      "100"
+   ],
+   [
+      " Guyana\t",
+      "Guyanese dollar\t",
+      "$\t",
+      "GYD\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Haiti\t",
+      "Haitian gourde\t",
+      "G\t",
+      "HTG\t",
+      "Centime\t",
+      "100"
+   ],
+   [
+      " Honduras\t",
+      "Honduran lempira\t",
+      "L\t",
+      "HNL\t",
+      "Centavo\t",
+      "100"
+   ],
+   [
+      " Hong Kong\t",
+      "Hong Kong dollar\t",
+      "$\t",
+      "HKD\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Hungary\t",
+      "Hungarian forint\t",
+      "Ft\t",
+      "HUF\t",
+      "Fillér\t",
+      "100"
+   ],
+   [
+      " Iceland\t",
+      "Icelandic króna\t",
+      "kr\t",
+      "ISK\t",
+      "Eyrir\t",
+      "100"
+   ],
+   [
+      " India\t",
+      "Indian rupee\t",
+      "₹\t",
+      "INR\t",
+      "Paisa\t",
+      "100"
+   ],
+   [
+      " Indonesia\t",
+      "Indonesian rupiah\t",
+      "Rp\t",
+      "IDR\t",
+      "Sen\t",
+      "100"
+   ],
+   [
+      " Iran\t",
+      "Iranian rial\t",
+      "﷼\t",
+      "IRR\t",
+      "Dinar\t",
+      "100"
+   ],
+   [
+      " Iraq\t",
+      "Iraqi dinar\t",
+      "ع.د\t",
+      "IQD\t",
+      "Fils\t",
+      "1000"
+   ],
+   [
+      " Ireland\t",
+      "Euro\t",
+      "€\t",
+      "EUR\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Isle of Man\t",
+      "British pound[F]\t",
+      "£\t",
+      "GBP\t",
+      "Penny\t",
+      "100"
+   ],
+   [
+      "Manx pound\t",
+      "£\t",
+      "IMP[G]\t",
+      "Penny\t",
+      "100"
+   ],
+   [
+      " Israel\t",
+      "Israeli new shekel\t",
+      "₪\t",
+      "ILS\t",
+      "Agora\t",
+      "100"
+   ],
+   [
+      " Italy\t",
+      "Euro\t",
+      "€\t",
+      "EUR\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Jamaica\t",
+      "Jamaican dollar\t",
+      "$\t",
+      "JMD\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Japan\t",
+      "Japanese yen\t",
+      "¥\t",
+      "JPY\t",
+      "Sen[C]\t",
+      "100"
+   ],
+   [
+      " Jersey\t",
+      "British pound[F]\t",
+      "£\t",
+      "GBP\t",
+      "Penny\t",
+      "100"
+   ],
+   [
+      "Jersey pound\t",
+      "£\t",
+      "JEP[G]\t",
+      "Penny\t",
+      "100"
+   ],
+   [
+      " Jordan\t",
+      "Jordanian dinar\t",
+      "د.ا\t",
+      "JOD\t",
+      "Piastre[K]\t",
+      "100"
+   ],
+   [
+      " Kazakhstan\t",
+      "Kazakhstani tenge\t",
+      "₸\t",
+      "KZT\t",
+      "Tïın\t",
+      "100"
+   ],
+   [
+      " Kenya\t",
+      "Kenyan shilling\t",
+      "Sh\t",
+      "KES\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Kiribati\t",
+      "Australian dollar\t",
+      "$\t",
+      "AUD\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      "Kiribati dollar[E]\t",
+      "$\t",
+      "(none)\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Korea, North\t",
+      "North Korean won\t",
+      "₩\t",
+      "KPW\t",
+      "Chon\t",
+      "100"
+   ],
+   [
+      " Korea, South\t",
+      "South Korean won\t",
+      "₩\t",
+      "KRW\t",
+      "Jeon\t",
+      "100"
+   ],
+   [
+      " Kosovo\t",
+      "Euro\t",
+      "€\t",
+      "EUR\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Kuwait\t",
+      "Kuwaiti dinar\t",
+      "د.ك\t",
+      "KWD\t",
+      "Fils\t",
+      "1000"
+   ],
+   [
+      " Kyrgyzstan\t",
+      "Kyrgyzstani som\t",
+      "с\t",
+      "KGS\t",
+      "Tyiyn\t",
+      "100"
+   ],
+   [
+      " Laos\t",
+      "Lao kip\t",
+      "₭\t",
+      "LAK\t",
+      "Att\t",
+      "100"
+   ],
+   [
+      " Latvia\t",
+      "Euro\t",
+      "€\t",
+      "EUR\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Lebanon\t",
+      "Lebanese pound\t",
+      "ل.ل\t",
+      "LBP\t",
+      "Piastre\t",
+      "100"
+   ],
+   [
+      " Lesotho\t",
+      "Lesotho loti\t",
+      "L\t",
+      "LSL\t",
+      "Sente\t",
+      "100"
+   ],
+   [
+      "South African rand\t",
+      "R\t",
+      "ZAR\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Liberia\t",
+      "Liberian dollar\t",
+      "$\t",
+      "LRD\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Libya\t",
+      "Libyan dinar\t",
+      "ل.د\t",
+      "LYD\t",
+      "Dirham\t",
+      "1000"
+   ],
+   [
+      " Liechtenstein\t",
+      "Swiss franc\t",
+      "Fr\t",
+      "CHF\t",
+      "Rappen\t",
+      "100"
+   ],
+   [
+      " Lithuania\t",
+      "Euro\t",
+      "€\t",
+      "EUR\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Luxembourg\t",
+      "Euro\t",
+      "€\t",
+      "EUR\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Macau\t",
+      "Macanese pataca\t",
+      "P\t",
+      "MOP\t",
+      "Avo\t",
+      "100"
+   ],
+   [
+      " Macedonia, Republic of\t",
+      "Macedonian denar\t",
+      "ден\t",
+      "MKD\t",
+      "Deni\t",
+      "100"
+   ],
+   [
+      " Madagascar\t",
+      "Malagasy ariary\t",
+      "Ar\t",
+      "MGA\t",
+      "Iraimbilanja\t",
+      "5"
+   ],
+   [
+      " Malawi\t",
+      "Malawian kwacha\t",
+      "MK\t",
+      "MWK\t",
+      "Tambala\t",
+      "100"
+   ],
+   [
+      " Malaysia\t",
+      "Malaysian ringgit\t",
+      "RM\t",
+      "MYR\t",
+      "Sen\t",
+      "100"
+   ],
+   [
+      " Maldives\t",
+      "Maldivian rufiyaa\t",
+      ".ރ\t",
+      "MVR\t",
+      "Laari\t",
+      "100"
+   ],
+   [
+      " Mali\t",
+      "West African CFA franc\t",
+      "Fr\t",
+      "XOF\t",
+      "Centime\t",
+      "100"
+   ],
+   [
+      " Malta\t",
+      "Euro\t",
+      "€\t",
+      "EUR\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Marshall Islands\t",
+      "United States dollar\t",
+      "$\t",
+      "USD\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Mauritania\t",
+      "Mauritanian ouguiya\t",
+      "UM\t",
+      "MRU\t",
+      "Khoums\t",
+      "5"
+   ],
+   [
+      " Mauritius\t",
+      "Mauritian rupee\t",
+      "₨\t",
+      "MUR\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Mexico\t",
+      "Mexican peso\t",
+      "$\t",
+      "MXN\t",
+      "Centavo\t",
+      "100"
+   ],
+   [
+      " Micronesia\t",
+      "Micronesian dollar[E]\t",
+      "$\t",
+      "(none)\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      "United States dollar\t",
+      "$\t",
+      "USD\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Moldova\t",
+      "Moldovan leu\t",
+      "L\t",
+      "MDL\t",
+      "Ban\t",
+      "100"
+   ],
+   [
+      " Monaco\t",
+      "Euro\t",
+      "€\t",
+      "EUR\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Mongolia\t",
+      "Mongolian tögrög\t",
+      "₮\t",
+      "MNT\t",
+      "Möngö\t",
+      "100"
+   ],
+   [
+      " Montenegro\t",
+      "Euro\t",
+      "€\t",
+      "EUR\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Montserrat\t",
+      "Eastern Caribbean dollar\t",
+      "$\t",
+      "XCD\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Morocco\t",
+      "Moroccan dirham\t",
+      "د.م.\t",
+      "MAD\t",
+      "Centime\t",
+      "100"
+   ],
+   [
+      " Mozambique\t",
+      "Mozambican metical\t",
+      "MT\t",
+      "MZN\t",
+      "Centavo\t",
+      "100"
+   ],
+   [
+      " Myanmar\t",
+      "Burmese kyat\t",
+      "Ks\t",
+      "MMK\t",
+      "Pya\t",
+      "100"
+   ],
+   [
+      " Namibia\t",
+      "Namibian dollar\t",
+      "$\t",
+      "NAD\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      "South African rand\t",
+      "R\t",
+      "ZAR\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Nauru\t",
+      "Australian dollar\t",
+      "$\t",
+      "AUD\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      "Nauruan dollar[E]\t",
+      "$\t",
+      "(none)\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      "   Nepal\t",
+      "Nepalese rupee\t",
+      "₨\t",
+      "NPR\t",
+      "Paisa\t",
+      "100"
+   ],
+   [
+      "Indian rupee\t",
+      "₹\t",
+      "INR\t",
+      "Paisa\t",
+      "100"
+   ],
+   [
+      " Netherlands[L]\t",
+      "Euro\t",
+      "€\t",
+      "EUR\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " New Caledonia\t",
+      "CFP franc\t",
+      "Fr\t",
+      "XPF\t",
+      "Centime\t",
+      "100"
+   ],
+   [
+      " New Zealand\t",
+      "New Zealand dollar\t",
+      "$\t",
+      "NZD\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Nicaragua\t",
+      "Nicaraguan córdoba\t",
+      "C$\t",
+      "NIO\t",
+      "Centavo\t",
+      "100"
+   ],
+   [
+      " Niger\t",
+      "West African CFA franc\t",
+      "Fr\t",
+      "XOF\t",
+      "Centime\t",
+      "100"
+   ],
+   [
+      " Nigeria\t",
+      "Nigerian naira\t",
+      "₦\t",
+      "NGN\t",
+      "Kobo\t",
+      "100"
+   ],
+   [
+      " Niue\t",
+      "New Zealand dollar\t",
+      "$\t",
+      "NZD\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      "Niue dollar[E]\t",
+      "$\t",
+      "(none)\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Northern Cyprus\t",
+      "Turkish lira\t",
+      "₺\t",
+      "TRY\t",
+      "Kuruş\t",
+      "100"
+   ],
+   [
+      " Norway\t",
+      "Norwegian krone\t",
+      "kr\t",
+      "NOK\t",
+      "Øre\t",
+      "100"
+   ],
+   [
+      " Oman\t",
+      "Omani rial\t",
+      "ر.ع.\t",
+      "OMR\t",
+      "Baisa\t",
+      "1000"
+   ],
+   [
+      " Pakistan\t",
+      "Pakistani rupee\t",
+      "₨\t",
+      "PKR\t",
+      "Paisa\t",
+      "100"
+   ],
+   [
+      " Palau\t",
+      "Palauan dollar[E]\t",
+      "$\t",
+      "(none)\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      "United States dollar\t",
+      "$\t",
+      "USD\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Palestine\t",
+      "Israeli new shekel\t",
+      "₪\t",
+      "ILS\t",
+      "Agora\t",
+      "100"
+   ],
+   [
+      "Jordanian dinar\t",
+      "د.ا\t",
+      "JOD\t",
+      "Piastre[K]\t",
+      "100"
+   ],
+   [
+      " Panama\t",
+      "Panamanian balboa\t",
+      "B/.\t",
+      "PAB\t",
+      "Centésimo\t",
+      "100"
+   ],
+   [
+      "United States dollar\t",
+      "$\t",
+      "USD\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Papua New Guinea\t",
+      "Papua New Guinean kina\t",
+      "K\t",
+      "PGK\t",
+      "Toea\t",
+      "100"
+   ],
+   [
+      " Paraguay\t",
+      "Paraguayan guaraní\t",
+      "₲\t",
+      "PYG\t",
+      "Céntimo\t",
+      "100"
+   ],
+   [
+      " Peru\t",
+      "Peruvian sol\t",
+      "S/.\t",
+      "PEN\t",
+      "Céntimo\t",
+      "100"
+   ],
+   [
+      " Philippines\t",
+      "Philippine piso\t",
+      "₱\t",
+      "PHP\t",
+      "Sentimo\t",
+      "100"
+   ],
+   [
+      " Pitcairn Islands\t",
+      "New Zealand dollar\t",
+      "$\t",
+      "NZD\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      "Pitcairn Islands dollar[E]\t",
+      "$\t",
+      "(none)\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Poland\t",
+      "Polish złoty\t",
+      "zł\t",
+      "PLN\t",
+      "Grosz\t",
+      "100"
+   ],
+   [
+      " Portugal\t",
+      "Euro\t",
+      "€\t",
+      "EUR\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Qatar\t",
+      "Qatari riyal\t",
+      "ر.ق\t",
+      "QAR\t",
+      "Dirham\t",
+      "100"
+   ],
+   [
+      " Romania\t",
+      "Romanian leu\t",
+      "lei\t",
+      "RON\t",
+      "Ban\t",
+      "100"
+   ],
+   [
+      " Russia\t",
+      "Russian ruble\t",
+      "₽\t",
+      "RUB\t",
+      "Kopek\t",
+      "100"
+   ],
+   [
+      " Rwanda\t",
+      "Rwandan franc\t",
+      "Fr\t",
+      "RWF\t",
+      "Centime\t",
+      "100"
+   ],
+   [
+      " Saba\t",
+      "United States dollar\t",
+      "$\t",
+      "USD\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Sahrawi Republic[M]\t",
+      "Algerian dinar\t",
+      "د.ج\t",
+      "DZD\t",
+      "Santeem\t",
+      "100"
+   ],
+   [
+      "Mauritanian ouguiya\t",
+      "UM\t",
+      "MRU\t",
+      "Khoums\t",
+      "5"
+   ],
+   [
+      "Moroccan dirham\t",
+      "د. م.\t",
+      "MAD\t",
+      "Centime\t",
+      "100"
+   ],
+   [
+      "Sahrawi peseta\t",
+      "₧ or Ptas\t",
+      "(none)\t",
+      "Centime\t",
+      "100"
+   ],
+   [
+      " Saint Helena\t",
+      "Saint Helena pound\t",
+      "£\t",
+      "SHP\t",
+      "Penny\t",
+      "100"
+   ],
+   [
+      " Saint Kitts and Nevis\t",
+      "Eastern Caribbean dollar\t",
+      "$\t",
+      "XCD\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Saint Lucia\t",
+      "Eastern Caribbean dollar\t",
+      "$\t",
+      "XCD\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Saint Vincent and the Grenadines\t",
+      "Eastern Caribbean dollar\t",
+      "$\t",
+      "XCD\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Samoa\t",
+      "Samoan tālā\t",
+      "T\t",
+      "WST\t",
+      "Sene\t",
+      "100"
+   ],
+   [
+      " San Marino\t",
+      "Euro\t",
+      "€\t",
+      "EUR\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " São Tomé and Príncipe\t",
+      "São Tomé and Príncipe dobra\t",
+      "Db\t",
+      "STN\t",
+      "Cêntimo\t",
+      "100"
+   ],
+   [
+      " Saudi Arabia\t",
+      "Saudi riyal\t",
+      "ر.س\t",
+      "SAR\t",
+      "Halala\t",
+      "100"
+   ],
+   [
+      " Senegal\t",
+      "West African CFA franc\t",
+      "Fr\t",
+      "XOF\t",
+      "Centime\t",
+      "100"
+   ],
+   [
+      " Serbia\t",
+      "Serbian dinar\t",
+      "дин. or din.\t",
+      "RSD\t",
+      "Para\t",
+      "100"
+   ],
+   [
+      " Seychelles\t",
+      "Seychellois rupee\t",
+      "₨\t",
+      "SCR\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Sierra Leone\t",
+      "Sierra Leonean leone\t",
+      "Le\t",
+      "SLL\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Singapore\t",
+      "Brunei dollar\t",
+      "$\t",
+      "BND\t",
+      "Sen\t",
+      "100"
+   ],
+   [
+      "Singapore dollar\t",
+      "$\t",
+      "SGD\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Sint Eustatius\t",
+      "United States dollar\t",
+      "$\t",
+      "USD\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Sint Maarten\t",
+      "Netherlands Antillean guilder\t",
+      "ƒ\t",
+      "ANG\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Slovakia\t",
+      "Euro\t",
+      "€\t",
+      "EUR\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Slovenia\t",
+      "Euro\t",
+      "€\t",
+      "EUR\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Solomon Islands\t",
+      "Solomon Islands dollar\t",
+      "$\t",
+      "SBD\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Somalia\t",
+      "Somali shilling\t",
+      "Sh\t",
+      "SOS\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Somaliland\t",
+      "Somaliland shilling\t",
+      "Sl\t",
+      "(none)\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " South Africa\t",
+      "South African rand\t",
+      "R\t",
+      "ZAR\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " South Georgia and the South Sandwich Islands\t",
+      "British pound\t",
+      "£\t",
+      "GBP\t",
+      "Penny\t",
+      "100"
+   ],
+   [
+      "South Georgia and the South Sandwich Islands pound[E]\t",
+      "£\t",
+      "(none)\t",
+      "Penny\t",
+      "100"
+   ],
+   [
+      " South Ossetia\t",
+      "Russian ruble\t",
+      "₽\t",
+      "RUB\t",
+      "Kopek\t",
+      "100"
+   ],
+   [
+      " Spain\t",
+      "Euro\t",
+      "€\t",
+      "EUR\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " South Sudan\t",
+      "South Sudanese pound\t",
+      "£\t",
+      "SSP\t",
+      "Piastre\t",
+      "100"
+   ],
+   [
+      " Sri Lanka\t",
+      "Sri Lankan rupee\t",
+      "Rs රු or ரூ\t",
+      "LKR\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Sudan\t",
+      "Sudanese pound\t",
+      "ج.س.\t",
+      "SDG\t",
+      "Piastre\t",
+      "100"
+   ],
+   [
+      " Suriname\t",
+      "Surinamese dollar\t",
+      "$\t",
+      "SRD\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Swaziland\t",
+      "Swazi lilangeni\t",
+      "L\t",
+      "SZL\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Sweden\t",
+      "Swedish krona\t",
+      "kr\t",
+      "SEK\t",
+      "Öre\t",
+      "100"
+   ],
+   [
+      "  Switzerland\t",
+      "Swiss franc\t",
+      "Fr\t",
+      "CHF\t",
+      "Rappen[N]\t",
+      "100"
+   ],
+   [
+      " Syria\t",
+      "Syrian pound\t",
+      "£ or ل.س\t",
+      "SYP\t",
+      "Piastre\t",
+      "100"
+   ],
+   [
+      " Taiwan\t",
+      "New Taiwan dollar\t",
+      "$\t",
+      "TWD\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Tajikistan\t",
+      "Tajikistani somoni\t",
+      "ЅМ\t",
+      "TJS\t",
+      "Diram\t",
+      "100"
+   ],
+   [
+      " Tanzania\t",
+      "Tanzanian shilling\t",
+      "Sh\t",
+      "TZS\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Thailand\t",
+      "Thai baht\t",
+      "฿\t",
+      "THB\t",
+      "Satang\t",
+      "100"
+   ],
+   [
+      " Togo\t",
+      "West African CFA franc\t",
+      "Fr\t",
+      "XOF\t",
+      "Centime\t",
+      "100"
+   ],
+   [
+      " Tonga\t",
+      "Tongan paʻanga[O]\t",
+      "T$\t",
+      "TOP\t",
+      "Seniti\t",
+      "100"
+   ],
+   [
+      " Transnistria\t",
+      "Transnistrian ruble\t",
+      "р.\t",
+      "PRB[G]\t",
+      "Kopek\t",
+      "100"
+   ],
+   [
+      " Trinidad and Tobago\t",
+      "Trinidad and Tobago dollar\t",
+      "$\t",
+      "TTD\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Tristan da Cunha\t",
+      "Saint Helena pound\t",
+      "£\t",
+      "SHP\t",
+      "Penny\t",
+      "100"
+   ],
+   [
+      "Tristan da Cunha pound[E]\t",
+      "£\t",
+      "(none)\t",
+      "Penny\t",
+      "100"
+   ],
+   [
+      " Tunisia\t",
+      "Tunisian dinar\t",
+      "د.ت\t",
+      "TND\t",
+      "Millime\t",
+      "1000"
+   ],
+   [
+      " Turkey\t",
+      "Turkish lira\t",
+      "₺\t",
+      "TRY\t",
+      "Kuruş\t",
+      "100"
+   ],
+   [
+      " Turkmenistan\t",
+      "Turkmenistan manat\t",
+      "m\t",
+      "TMT\t",
+      "Tennesi\t",
+      "100"
+   ],
+   [
+      " Turks and Caicos Islands\t",
+      "United States dollar\t",
+      "$\t",
+      "USD\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Tuvalu\t",
+      "Australian dollar\t",
+      "$\t",
+      "AUD\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      "Tuvaluan dollar\t",
+      "$\t",
+      "TVD[G]\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Uganda\t",
+      "Ugandan shilling\t",
+      "Sh\t",
+      "UGX\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Ukraine\t",
+      "Ukrainian hryvnia\t",
+      "₴\t",
+      "UAH\t",
+      "Kopiyka\t",
+      "100"
+   ],
+   [
+      "Russian ruble[P][5]\t",
+      "₽\t",
+      "RUB\t",
+      "Kopek\t",
+      "100"
+   ],
+   [
+      " United Arab Emirates\t",
+      "United Arab Emirates dirham\t",
+      "د.إ\t",
+      "AED\t",
+      "Fils\t",
+      "100"
+   ],
+   [
+      " United Kingdom\t",
+      "British pound[F]\t",
+      "£\t",
+      "GBP\t",
+      "Penny\t",
+      "100"
+   ],
+   [
+      " United States\t",
+      "United States dollar\t",
+      "$\t",
+      "USD\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Uruguay\t",
+      "Uruguayan peso\t",
+      "$\t",
+      "UYU\t",
+      "Centésimo\t",
+      "100"
+   ],
+   [
+      " Uzbekistan\t",
+      "Uzbekistani soʻm\t",
+      "so'm or сўм\t",
+      "UZS\t",
+      "Tiyin\t",
+      "100"
+   ],
+   [
+      " Vanuatu\t",
+      "Vanuatu vatu\t",
+      "Vt\t",
+      "VUV\t",
+      "(none)\t",
+      "(none)"
+   ],
+   [
+      "  Vatican City\t",
+      "Euro\t",
+      "€\t",
+      "EUR\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      " Venezuela\t",
+      "Venezuelan bolívar soberano\t",
+      "Bs.S. or Bs.\t",
+      "VES\t",
+      "Céntimo\t",
+      "100"
+   ],
+   [
+      " Vietnam\t",
+      "Vietnamese đồng\t",
+      "₫\t",
+      "VND\t",
+      "Hào[Q]\t",
+      "10"
+   ],
+   [
+      " Wallis and Futuna\t",
+      "CFP franc\t",
+      "Fr\t",
+      "XPF\t",
+      "Centime\t",
+      "100"
+   ],
+   [
+      " Yemen\t",
+      "Yemeni rial\t",
+      "﷼\t",
+      "YER\t",
+      "Fils\t",
+      "100"
+   ],
+   [
+      " Zambia\t",
+      "Zambian kwacha\t",
+      "ZK\t",
+      "ZMW\t",
+      "Ngwee\t",
+      "100"
+   ],
+   [
+      " Zimbabwe[R]\t",
+      "Botswana pula\t",
+      "P\t",
+      "BWP\t",
+      "Thebe\t",
+      "100"
+   ],
+   [
+      "British pound[F]\t",
+      "£\t",
+      "GBP\t",
+      "Penny\t",
+      "100"
+   ],
+   [
+      "Chinese yuan\t",
+      "¥ or 元\t",
+      "CNY\t",
+      "Fen[I]\t",
+      "100"
+   ],
+   [
+      "Euro\t",
+      "€\t",
+      "EUR\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      "Indian rupee\t",
+      "₹\t",
+      "INR\t",
+      "Paisa\t",
+      "100"
+   ],
+   [
+      "Japanese yen\t",
+      "¥\t",
+      "JPY\t",
+      "Sen[C]\t",
+      "100"
+   ],
+   [
+      "South African rand\t",
+      "Rs\t",
+      "ZAR\t",
+      "Cent\t",
+      "100"
+   ],
+   [
+      "United States dollar\t",
+      "$\t",
+      "USD\t",
+      "Cent\t",
+      "100"
+   ]
+]
